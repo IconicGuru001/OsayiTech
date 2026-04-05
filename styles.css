@@ -1,7 +1,7 @@
 body { font-family: Arial; margin: 0; }
 header { background: #111; color: white; padding: 10px; }
 .hero { text-align: center; padding: 100px; background: #004e92; color: white; }
-.btn { padding: 20px; background: #00c6ff; text-decoration: none; }
+.btn { padding: 50px; background: #00c6ff; text-decoration: none; }
 nav {
   display: flex;
   align-items: center;
