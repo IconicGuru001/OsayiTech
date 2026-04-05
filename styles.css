@@ -11,3 +11,10 @@ nav {
   height: 40px;
   width: auto;
 }
+.insta-btn {
+  background: #E1306C;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
